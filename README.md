@@ -104,3 +104,6 @@
 	- Agregar carpeta Commands
 		- Agregar clase LoadTodoItemsCommand que implementa ICommand
 		- Esta llenará el modelo.
+		
+	- Declarar LoadTodoItemsCommand en TodoListViewModel
+		- Llamarlo en el constructor.
