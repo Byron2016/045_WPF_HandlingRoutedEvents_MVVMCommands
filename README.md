@@ -97,3 +97,6 @@
 		- Es del tipo ObservableCollection<TodoItem>
 	- Agregar UserControl Views/TodoList.xaml
 		- Será el encargado de deslplegar la información.
+	- Agregar a mainView
+		- UserControl
+		- Ligarlo al DataContext TodoListViewModel
