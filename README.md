@@ -100,3 +100,7 @@
 	- Agregar a mainView
 		- UserControl
 		- Ligarlo al DataContext TodoListViewModel
+		
+	- Agregar carpeta Commands
+		- Agregar clase LoadTodoItemsCommand que implementa ICommand
+		- Esta llenará el modelo.
