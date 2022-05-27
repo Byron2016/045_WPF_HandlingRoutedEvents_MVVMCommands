@@ -78,3 +78,7 @@
 			A
 				namespace aab_EventCommandsMVVM.Views
 	
+	- Crear carpeta Models
+		- Agregar clase ObservableObject
+			- Esta clase hereda de INotifyPropertyChanged y hay que implementarla.
+			- Agregar un método OnPropertyChanged.
