@@ -60,3 +60,21 @@
 					
 		- Renombrar archivos 
 			- MainWindow.xaml y MainWindow.xaml.cs a MainView.xaml y MainView.xaml.cs
+			
+	- Crear folder Views y mover MainView a este folder
+		- App.xaml
+			De 
+				StartupUri="MainView.xaml">
+			A
+				StartupUri="Views/MainView.xaml">
+		- Views/MainView.xaml
+			De 
+				<Window x:Class="aab_EventCommandsMVVM.MainView"
+			A
+				<Window x:Class="aab_EventCommandsMVVM.Views.MainView"
+		- Views/MainView.xaml.cs
+			De 
+				namespace aab_EventCommandsMVVM
+			A
+				namespace aab_EventCommandsMVVM.Views
+	
