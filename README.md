@@ -90,3 +90,4 @@
 		- Crear clase MainViewModel que hereda de ObservableObject
 		- Crear en MainView.xaml.cs un DataContext al MainViewModel
 			- DataContext = new MainViewModel();
+		- Crear clase TodoListViewModel que hereda de ObservableObject
