@@ -107,3 +107,7 @@
 		
 	- Declarar LoadTodoItemsCommand en TodoListViewModel
 		- Llamarlo en el constructor.
+		
+	- LLENADO DE GRID.
+		- 1RA. FORMA.
+			- Desde el constructor del TodoListViewModel
