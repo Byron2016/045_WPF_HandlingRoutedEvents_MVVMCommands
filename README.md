@@ -93,3 +93,5 @@
 		- Crear clase TodoListViewModel que hereda de ObservableObject
 		
 	- Agregar propfull _todoListViewModel a MainViewModel 
+	- Agregar propfull _todoItems a TodoListViewModel
+		- Es del tipo ObservableCollection<TodoItem>
