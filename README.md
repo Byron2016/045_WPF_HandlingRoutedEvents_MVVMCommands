@@ -82,3 +82,6 @@
 		- Agregar clase ObservableObject
 			- Esta clase hereda de INotifyPropertyChanged y hay que implementarla.
 			- Agregar un método OnPropertyChanged.
+
+		- Agregar clase TodoItem
+			- Esta clase guardará el modelo de datos.
