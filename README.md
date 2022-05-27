@@ -85,3 +85,6 @@
 
 		- Agregar clase TodoItem
 			- Esta clase guardará el modelo de datos.
+			
+	- Crear carpeta ViewModels
+		- Crear clase MainViewModel que hereda de ObservableObject
