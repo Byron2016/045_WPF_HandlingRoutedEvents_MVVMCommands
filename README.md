@@ -95,3 +95,5 @@
 	- Agregar propfull _todoListViewModel a MainViewModel 
 	- Agregar propfull _todoItems a TodoListViewModel
 		- Es del tipo ObservableCollection<TodoItem>
+	- Agregar UserControl Views/TodoList.xaml
+		- Será el encargado de deslplegar la información.
